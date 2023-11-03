@@ -1,0 +1,14 @@
+#ignore everything
+*
+*/
+
+#unignore what we want to track
+!*.cpp
+!*.h
+!.gitignore
+!*.md
+!/divisibleBy3_5
+!divisibleBy3_5
+!*divisibleBy3_5
+!div 
+!*/
