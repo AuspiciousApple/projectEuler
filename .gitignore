@@ -7,3 +7,5 @@
 !*.h
 !.gitignore
 !*.md
+!divisibleBy3_5/*.cpp
+!divisibleBy3_5/*.h
